@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:/mingw64/bin/gcc.exe"
+        },
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-msvc-arm64",
+            "compilerPath": "D:\\cygwin64\\https%3a%2f%2fmirrors.163.com%2fcygwin%2f\\x86_64\\release\\gcc\\gcc-core\\gcc-core-11.3.0-1.tar.zst"
+        }
+    ],
+    "version": 4
+}
